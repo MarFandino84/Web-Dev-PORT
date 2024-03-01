@@ -13,26 +13,26 @@ const Section3 = () => {
     <>
         <Container>
               
-              <img src={IGNIGO  } />
+              <img src={""} />
                   <h4>Ignigo Bikes E-Commerce</h4>
                   <span>REACT REDUX ROUTER STYLED-COMPONENT </span>
                   <a href={"https://ignigo-bikes-8eln-ca16wcrln-marfandino.vercel.app/"} target="_blank"><FaLink /></a>    
                   <a href={"https://github.com/MarFandino84/Ignigo-Bikes"} target="_blank" ><FaGithub /></a>    
             
             
-              <img src={Todo} />
+              <img src={""} />
                   <h4>Task List</h4>
                   <span>REACT STYLED-COMPONENT </span>
                   <a  href={"https://task-list-jfb5v9s12-marfandino.vercel.app/"} target="_blank"><FaLink /></a>    
                   <a href={"https://github.com/MarFandino84/Task-list"} target="_blank" ><FaGithub /></a>    
             
-                  <img src={otto} />
+                  <img src={""} />
                   <h4>Otto Baum</h4>
                   <span>HTML CSS </span>
                   <a  href={"https://otto-baum-kq6j.vercel.app/"} target="_blank" ><FaLink /></a>    
                   <a href={"https://github.com/MarFandino84/OttoBaum"} target="_blank" ><FaGithub /></a>    
             
-                  <img src={pastry} />
+                  <img src={""} />
                   <h4>Grandma Pastry</h4>
                   <span>HTML CSS </span>
                   <a  href={"https://grandma.vercel.app/"} target="_blank"><FaLink /></a>    

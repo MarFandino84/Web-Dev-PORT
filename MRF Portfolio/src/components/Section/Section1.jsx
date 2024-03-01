@@ -18,7 +18,7 @@ const Section1 = () => {
           <span>{">"}</span>
       </Brack>
   </Span2>
-      <ImgStyle src={ProfilePicture} />
+      <ImgStyle src={""} />
      
 </ContainerHero>
     </>
