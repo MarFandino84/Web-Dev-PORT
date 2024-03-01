@@ -1,0 +1,1 @@
+export const otto = "https://res.cloudinary.com/dmkghcrs2/image/upload/v1709252456/otto-baum-kq6j.vercel.app_kbd18m.jpg"

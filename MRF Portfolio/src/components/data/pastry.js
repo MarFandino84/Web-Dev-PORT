@@ -1,0 +1,1 @@
+export const pastry = "https://res.cloudinary.com/dmkghcrs2/image/upload/v1709252614/grandma.vercel.app_hitffa.jpg"
